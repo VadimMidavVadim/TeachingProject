@@ -19,3 +19,9 @@ a {
 p {
 	color: #a9a9a9;
 }
+
+details {
+	border-bottom: 1px groove;
+	padding: 1%;
+	cursor: pointer;
+}
